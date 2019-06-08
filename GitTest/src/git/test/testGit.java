@@ -9,4 +9,7 @@ public class testGit {
     public static void main(String[] args) {
         System.out.println("1111111111111111");
     }
+    public void A(){
+        System.out.println(1+2);
+    }
 }
